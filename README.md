@@ -1,4 +1,4 @@
-# 🚀 Scholar AI — Autonomous Research Assistant
+#  Scholar AI - Autonomous Research Assistant
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Adhithyan006/Autonomous-Research-Assistant/main/assets/hero.gif" width="750" alt="Scholar AI Animation"/>
@@ -10,16 +10,15 @@
 
 ---
 
-## 🌐 Live Platform: **Scholar AI**
+##  Live Platform: **Scholar AI**
 
 **Scholar AI** is an advanced Autonomous Research Assistant designed to transform raw topics into structured, meaningful, and actionable research briefs using AI-powered intelligence.
 
-It simulates the workflow of a professional researcher —  
-from information gathering to final synthesis — fully automated.
+It simulates the workflow of a professional researcher - from information gathering to final synthesis - fully automated.
 
 ---
 
-## 🎯 Project Vision
+##  Project Vision
 
 Modern research demands:
 
@@ -34,34 +33,34 @@ This system removes manual effort from research workflows and provides high-qual
 
 ---
 
-## ✨ Core Capabilities
+##  Core Capabilities
 
-### 🔍 Intelligent Topic Analysis
+###  Intelligent Topic Analysis
 - Understands user-given research topics
 - Breaks them into meaningful subdomains
 
-### 🌍 Automated Source Collection
+###  Automated Source Collection
 - Collects relevant online sources
 - Filters noisy and low-quality information
 
-### 📚 Smart Summarization Engine
+###  Smart Summarization Engine
 - Extracts key insights
 - Removes redundancy
 - Preserves meaning
 
-### 🧠 Knowledge Synthesis
+###  Knowledge Synthesis
 - Combines multiple sources
 - Generates cohesive research briefs
 - Maintains logical flow
 
-### 📄 Research Brief Generator
+###  Research Brief Generator
 - Outputs structured documents
 - Academic-style formatting
 - Professional tone
 
 ---
 
-## ⚙️ System Architecture
+##  System Architecture
 User Input
 ↓
 Topic Analyzer
@@ -82,7 +81,7 @@ This pipeline ensures consistency, scalability, and reliability.
 
 ---
 
-## 🛠️ Technology Stack
+##  Technology Stack
 
 | Layer        | Technology Used          |
 |--------------|---------------------------|
@@ -96,9 +95,9 @@ All components are optimized for performance and extensibility.
 
 ---
 
-## 📦 Installation & Setup
+##  Installation & Setup
 
-### 1️⃣ Clone Repository
+### 1️ Clone Repository
 ```bash
 git clone https://github.com/Adhithyan006/Autonomous-Research-Assistant.git
 cd Autonomous-Research-Assistant
