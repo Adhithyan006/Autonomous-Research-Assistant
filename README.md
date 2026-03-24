@@ -95,38 +95,38 @@ Built on a **microservices-inspired agentic architecture** where each agent oper
 User Query Input
       ↓
 ┌─────────────────────────────────────────────────────────────┐
-│  RESEARCH COORDINATOR AGENT                                  │
-│  • Analyzes query complexity                                 │
-│  • Formulates research strategy                              │
-│  • Delegates to specialized agents                           │
+│  RESEARCH COORDINATOR AGENT                                 │
+│  • Analyzes query complexity                                │
+│  • Formulates research strategy                             │
+│  • Delegates to specialized agents                          │
 └─────────────────────────────────────────────────────────────┘
       ↓
 ┌─────────────────────────────────────────────────────────────┐
-│  INFORMATION RETRIEVAL AGENT                                 │
-│  • Identifies optimal information sources                    │
-│  • Executes multi-source data acquisition                    │
-│  • Validates source credibility                              │
+│  INFORMATION RETRIEVAL AGENT                                │
+│  • Identifies optimal information sources                   │
+│  • Executes multi-source data acquisition                   │
+│  • Validates source credibility                             │
 └─────────────────────────────────────────────────────────────┘
       ↓
 ┌─────────────────────────────────────────────────────────────┐
-│  ANALYSIS AGENT                                              │
-│  • Processes retrieved information                           │
-│  • Extracts key insights                                     │
-│  • Identifies knowledge gaps                                 │
+│  ANALYSIS AGENT                                             │
+│  • Processes retrieved information                          │
+│  • Extracts key insights                                    │
+│  • Identifies knowledge gaps                                │
 └─────────────────────────────────────────────────────────────┘
       ↓
 ┌─────────────────────────────────────────────────────────────┐
-│  SYNTHESIS AGENT                                             │
-│  • Integrates multi-source knowledge                         │
-│  • Ensures logical coherence                                 │
-│  • Generates comprehensive analysis                          │
+│  SYNTHESIS AGENT                                            │
+│  • Integrates multi-source knowledge                        │
+│  • Ensures logical coherence                                │
+│  • Generates comprehensive analysis                         │
 └─────────────────────────────────────────────────────────────┘
       ↓
 ┌─────────────────────────────────────────────────────────────┐
-│  QUALITY ASSURANCE AGENT                                     │
-│  • Validates factual accuracy                                │
-│  • Identifies contradictions                                 │
-│  • Recommends refinements                                    │
+│  QUALITY ASSURANCE AGENT                                    │
+│  • Validates factual accuracy                               │
+│  • Identifies contradictions                                │
+│  • Recommends refinements                                   │
 └─────────────────────────────────────────────────────────────┘
       ↓
 Final Research Output + Agent Collaboration Visualization
