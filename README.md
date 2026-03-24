@@ -22,7 +22,7 @@ KAVYNTRA AI represents a paradigm shift in autonomous research systems. While tr
 
 **The Fundamental Challenge:** Current AI systems lack autonomous research capability. They respond to queries but cannot independently formulate research strategies, delegate tasks to specialized agents, synthesize multi-source information, or validate findings through iterative refinement.
 
-**The KAVYNTRA Solution:** An agentic AI framework where autonomous agents possess distinct specializations—research planning, information retrieval, analysis, synthesis, and validation—collaborating through structured protocols to execute complex research workflows without human intervention at each step.
+**The KAVYNTRA Solution:** An agentic AI framework where autonomous agents possess distinct specializations-research planning, information retrieval, analysis, synthesis, and validation-collaborating through structured protocols to execute complex research workflows without human intervention at each step.
 
 ---
 
